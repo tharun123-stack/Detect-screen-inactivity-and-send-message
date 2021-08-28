@@ -1,4 +1,4 @@
-# screen-inactivity-detection
+#detect inactivity and send message
 
  
 After clicking Student Login, this page gets opened.
